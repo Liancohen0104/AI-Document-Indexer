@@ -12,7 +12,6 @@
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd ai-document-indexer
 ```
 
 ### 2. Install Dependencies
@@ -74,7 +73,10 @@ python index_document.py
 
 The screenshot below shows the content of the processed DOCX file before indexing:
 
-![DOCX Input Example](screenshots/sample_docx.png)
+| |
+|---|
+| ![DOCX Input Example](screenshots/sample_docx.png) |
+
 
 ### 📄 PDF Input Example
 
