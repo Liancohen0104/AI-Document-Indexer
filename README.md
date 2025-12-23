@@ -73,23 +73,17 @@ python index_document.py
 
 The screenshot below shows the content of the processed DOCX file before indexing:
 
-<img src="screenshots/sample_docx.png"
-     alt="DOCX Input Example"
-     style="border:1px solid #ccc; padding:8px; border-radius:6px;" />
+![DOCX Input Example](screenshots/sample_docx.png)
 
 ### 📄 PDF Input Example
 
 The screenshot below shows the content of the processed PDF file before indexing:
 
-<img src="screenshots/sample_pdf.png"
-     alt="PDF Input Example"
-     style="border:1px solid #ccc; padding:8px; border-radius:6px;" />
+![PDF Input](screenshots/sample_pdf.png)
 
 ### 🗄️ Database Output Example
 
 The screenshot below shows the stored chunks and embeddings inside the
 `document_chunks` table after processing:
 
-<img src="screenshots/db_output.png"
-     alt=" Database Output Example"
-     style="border:1px solid #ccc; padding:8px; border-radius:6px;" />
+![Database Output](screenshots/db_output.png)
