@@ -73,7 +73,7 @@ python index_document.py
 
 The screenshot below shows the content of the processed DOCX file before indexing:
 
-| |
+|---|
 | ![DOCX Input Example](screenshots/sample_docx.png) |
 
 
@@ -81,13 +81,11 @@ The screenshot below shows the content of the processed DOCX file before indexin
 
 The screenshot below shows the content of the processed PDF file before indexing:
 
-| |
-| ![PDF Input](screenshots/sample_pdf.png) |
+![PDF Input](screenshots/sample_pdf.png)
 
 ### 🗄️ Database Output Example
 
 The screenshot below shows the stored chunks and embeddings inside the
 `document_chunks` table after processing:
 
-| |
-| ![Database Output](screenshots/db_output.png) |
+![Database Output](screenshots/db_output.png)
