@@ -69,17 +69,17 @@ python index_document.py
 
 ## 🖼️ Usage Examples & Screenshots
 
-### 📄 DOCX Input Example
-
-The screenshot below shows the content of the processed DOCX file before indexing:
-
-![DOCX Input Example](screenshots/sample_docx.png)
-
 ### 📄 PDF Input Example
 
 The screenshot below shows the content of the processed PDF file before indexing:
 
 ![PDF Input](screenshots/sample_pdf.png)
+
+### 📄 DOCX Input Example
+
+The screenshot below shows the content of the processed DOCX file before indexing:
+
+![DOCX Input Example](screenshots/sample_docx.png)
 
 ### 🗄️ Database Output Example
 
