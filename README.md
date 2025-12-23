@@ -73,6 +73,7 @@ python index_document.py
 
 The screenshot below shows the content of the processed DOCX file before indexing:
 
+| |
 |---|
 | ![DOCX Input Example](screenshots/sample_docx.png) |
 
